@@ -52,7 +52,7 @@
 
 ---
 
-## 🛠 실행 방법
+## 실행 방법
 
 ### 1) Colab 환경 연결
 from google.colab import drive
@@ -92,7 +92,7 @@ project/
 
 ---
 
-## 👤 작성자  
+## 작성자  
 변성범  
 시계열 기상 분석 프로젝트
 
